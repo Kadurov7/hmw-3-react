@@ -1,0 +1,39 @@
+.item{
+    border:1px solid;
+    border-radius: 12px;
+    border: none;
+    padding: 7px;
+    background-color: rgb(59, 58, 58);
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+.item-list{
+    border: 1px solid;
+    width: 170px;
+    height: 110px;
+    text-align: center;
+    border-radius: 10px;
+    background-color: rgb(36, 35, 35);
+}
+.item-list2{
+    display: flex;
+    gap: 20rem;
+    
+}
+
+.item-list2 > p{
+    margin-right: 5rem;
+    border: 1px solid violet;
+    width: 90px;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 18px;
+    border-radius: 10px;
+    border: none;
+    background-color: rgb(48, 22, 71);
+}
