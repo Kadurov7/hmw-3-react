@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/hmw-3-react/static/css/main.6495b259.css",
+    "main.js": "/hmw-3-react/static/js/main.a145e066.js",
+    "index.html": "/hmw-3-react/index.html",
+    "main.6495b259.css.map": "/hmw-3-react/static/css/main.6495b259.css.map",
+    "main.a145e066.js.map": "/hmw-3-react/static/js/main.a145e066.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6495b259.css",
+    "static/js/main.a145e066.js"
+  ]
+}
